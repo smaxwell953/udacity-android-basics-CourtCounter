@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">udacity-android-basics-CourtCounter</string>
+    <string name="action_settings">Settings</string>
+</resources>

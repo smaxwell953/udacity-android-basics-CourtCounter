@@ -1,0 +1,2 @@
+rootProject.name='udacity-android-basics-CourtCounter'
+include ':app'
